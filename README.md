@@ -99,7 +99,7 @@ Same Screen with One Employee Selected
 ![PBI4](https://github.com/user-attachments/assets/d9396f64-d0ef-44a9-8c7f-aac7d176d21e)
 
 Technician Efficiency
-![Tech Efficiency](https://github.com/user-attachments/assets/5fd2bbee-e3aa-48a2-b17c-d62a94b64534)
+![tech efficiency2](https://github.com/user-attachments/assets/5a13c961-bb5a-48e1-a1a6-c3fa09c2161c)
 
 Tech Maintenence Jobs vs Total Profit From Labor
 ![PBI7](https://github.com/user-attachments/assets/518f4a47-c64c-4937-8b59-a90db0e116e8)
